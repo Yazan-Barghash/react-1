@@ -1,0 +1,85 @@
+{
+    "works" : [
+        {
+            "id" : 1 ,
+            "icon_name" : "icon fa fa-chain fa-2x",
+            "title" : " watch ux",
+            "body" : "lorem ipsute dolor sit amit 1"
+        },
+        {
+            "id" : 2 ,
+            "icon_name" : "icon fa fa-bolt fa-2x",
+            "title" : " watch design",
+            "body" : "lorem ipsute dolor sit amit 2"
+        },
+        {
+            "id" : 3 ,
+            "icon_name" : "icon fa fa-tachometer fa-2x",
+            "title" : " watch ui",
+            "body" : "lorem ipsute dolor sit amit 3"
+        }
+    ],
+
+    "portofolio" : [
+        {
+            "id" : 1,
+            "image" : "/image/w1.jpg"
+        },
+        {
+            "id" : 2,
+            "image" : "/image/w2.jpg"
+        },
+        {
+            "id" : 3,
+            "image" : "/image/w3.jpg"
+        },
+        {
+            "id" : 4,
+            "image" : "/image/w4.jpg"
+        },
+        {
+            "id" : 5,
+            "image" : "/image/w5.jpg"
+        },
+        {
+            "id" : 6,
+            "image" : "/image/w6.jpg"
+        }
+    ],
+
+    "social" :[
+        {
+            "id" : 1,
+            "icon" : "icon fa fa-facebook fa-3x",
+            "title" : "follow Me on ",
+            "body" : "social face book"
+        },
+        {
+            "id" : 2,
+            "icon" : "icon fa fa-twitter fa-3x",
+            "title" : "twiit Me on ",
+            "body" : "social face book"
+        },
+        {
+            "id" : 3,
+            "icon" : "icon fa fa-youtube fa-3x",
+            "title" : "subscribe Me on ",
+            "body" : "social face book"
+        }
+    ],
+
+    "profile" : [ 
+        {
+            "name": "yazan barghash",
+            "birthday" : "25/5/1995",
+            "adress" :" Damascus",
+            "phone" : "0951993963" ,
+            "email": "yazanbarghash2018@gmai.com",
+            "website" : " www.myStore.com",
+            "bootstrap" : 100,
+            "css" : 85 ,
+            "photoshop" : 60
+        }
+
+    ]
+}

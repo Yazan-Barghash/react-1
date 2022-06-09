@@ -1,0 +1,32 @@
+.about{
+    background-image: url(../../../public/image/w2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.about-section{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.about-desc{
+    width: 50%;
+    padding: 30px;
+}
+
+.opacity-black{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+
+h1{
+    margin: 15px 0px;
+}
+
+.about-desc-p{
+    margin: 10px 0px;
+    color: gainsboro;
+}

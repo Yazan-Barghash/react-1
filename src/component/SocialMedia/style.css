@@ -1,0 +1,48 @@
+/* social styeles */
+
+.social{
+    display: flex;
+}
+
+.socialItem{
+    text-align: center;
+    padding: 50px 0px;
+    height: 250px;
+    width: 35%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.socialItem:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+.socialItem:nth-child(1){
+    background-color: #3b5998;
+}
+.socialItem:nth-child(2){
+    background-color: #498cbf;
+}
+.socialItem:nth-child(3){
+    background-color: #cc2127;
+}
+
+
+.social-icon{
+    /* height: 50px;*/
+    width: 70px;
+    border-radius:20% ; 
+    padding: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.356);
+    margin-right: 10px;
+}
+
+.social-icon:hover {
+    transition: 1s all;
+    transform: rotate(360deg);
+    background-color: orange;
+    border-radius: 50%;
+}

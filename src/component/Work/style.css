@@ -1,0 +1,35 @@
+.work{
+    padding: 20px 0px;
+}
+
+.worktTitle{
+    font-size: 30px;
+    
+}
+
+.worksContainer{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.workItem{
+    border: 1px solid gray;
+    padding: 70px 20px;
+    text-align: center;
+    width: 30%;
+}
+.itemTitle{
+    margin: 10px 0px;
+    font-size: 30px;
+    color: orangered;
+}
+
+.workItem:hover{
+    transform: scale(1.1);
+    background-color: rgb(238, 253, 26);
+    /* color: white; */
+    transition: 0.1s all;
+    cursor: pointer;
+}
